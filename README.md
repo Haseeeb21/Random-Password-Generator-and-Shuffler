@@ -5,7 +5,7 @@ This repo contains different files.
 
 ## Random Password Generator
 
-The password file contains the code.
+The passgenerator_gui file contains the code.
 
 ### Working
 
